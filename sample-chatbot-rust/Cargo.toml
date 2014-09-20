@@ -1,0 +1,5 @@
+[package]
+
+name = "sample-chatbot-rust"
+version = "0.0.1"
+authors = ["Igor Khomenko <igor@quickblox.com>"]
